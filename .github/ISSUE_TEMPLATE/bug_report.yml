@@ -17,14 +17,14 @@ body:
     validations:
       required: true
    - type: textarea
-    attributes:
+     attributes:
       label: Screenshots
       description: If applicable, add screenshots to help explain your problem.
-    validations:
+     validations:
       required: false
    - type: textarea
-    attributes:
+     attributes:
       label: Additional context 
       description: Add any other context about the problem here.
-    validations:
+     validations:
       required: false
