@@ -1,0 +1,12 @@
+name: Bug report
+description: Create a report to help us improve
+labels:
+  - voluntary
+type: task
+body:
+  - type: textarea
+    attributes:
+      label: Voluntary
+      description: Describe the voluntary personal and carrier information.
+    validations:
+      required: true
