@@ -1,0 +1,22 @@
+name: New Merchant
+description: Add information of a merchant to be added on UAIBIT partneship
+labels:
+  - marchant
+type: task
+body:
+  - type: textarea
+    attributes:
+      label: Tasks
+      description: task list what should be done with this merchant to proper register on our auxiliary systems.
+      value: |
+          - [ ] Create issue via [OSM filter](v0-osm-field-filler.vercel.app).
+          - [ ] Add a comment with created issue.
+          - [ ] Bitcoinize merchant.
+          - [ ] Assure register on [OSM](openstreetmap.org).
+          - [ ] Assure register on [BTC MAP](btcmap.org).
+  - type: textarea
+    attributes:
+      label: Voluntary
+      description: Describe the voluntary personal and career information.
+    validations:
+      required: true
