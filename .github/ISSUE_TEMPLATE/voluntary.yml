@@ -1,14 +1,14 @@
 name: New voluntary
 description: Create a report to help us improve
 labels:
-  - voluntary
+  - volunteer
 projects:
   - UAIBIT/1
 type: task
 body:
   - type: textarea
     attributes:
-      label: Voluntary
-      description: Describe the voluntary personal and carrier information.
+      label: Volunteer
+      description: Describe the volunteer personal and carrier information.
     validations:
       required: true
