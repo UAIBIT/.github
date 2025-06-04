@@ -10,7 +10,7 @@ body:
       description: task list what should be done with this merchant to proper register on our auxiliary systems.
       value: |
           - [ ] Create issue via [OSM filter](v0-osm-field-filler.vercel.app).
-          - [ ] Add a comment with created issue.
+          - [ ] Add a comment with created issue or assuciate as sub issue.
           - [ ] Bitcoinize merchant.
           - [ ] Assure register on [OSM](openstreetmap.org).
           - [ ] Assure register on [BTC MAP](btcmap.org).
