@@ -1,7 +1,9 @@
 name: New Merchant
 description: Add information of a merchant to be added on UAIBIT partneship
+projects:
+  - UAIBIT/1
 labels:
-  - marchant
+  - merchant
 type: task
 body:
   - type: textarea
