@@ -14,6 +14,8 @@ body:
           - [ ] Bitcoinize merchant.
           - [ ] Assure register on [OSM](openstreetmap.org).
           - [ ] Assure register on [BTC MAP](btcmap.org).
+      validations:
+        required: true
   - type: textarea
     attributes:
       label: Voluntary
