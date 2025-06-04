@@ -18,7 +18,7 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Voluntary
-      description: Describe the voluntary personal and career information.
+      label: Merchant info
+      description: Describe the merchant relevant info to register on our auxiiary systems.
     validations:
       required: true
