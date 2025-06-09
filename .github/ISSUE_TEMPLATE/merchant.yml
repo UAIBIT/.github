@@ -1,5 +1,5 @@
 name: New Merchant
-description: Add information of a merchant to be added on UAIBIT partneship
+description: Add information of a merchant to be added on UAIBIT partnership
 projects:
   - UAIBIT/1
 labels:
@@ -21,6 +21,6 @@ body:
   - type: textarea
     attributes:
       label: Merchant info
-      description: Describe the merchant relevant info to register on our auxiiary systems.
+      description: Describe the merchant relevant info to register on our auxiliary systems.
     validations:
       required: true
