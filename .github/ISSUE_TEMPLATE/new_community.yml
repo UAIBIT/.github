@@ -1,0 +1,31 @@
+name: New Community 
+description: Add community information 
+projects:
+  - UAIBIT/1
+labels:
+  - community
+type: task
+body:
+  - type: textarea
+    attributes:
+      label: Tasks
+      description: task list what should be done in community to proper register on our auxiliary systems.
+      value: |
+          - [ ] Create logo
+          - [ ] Create github org
+          - [ ] Create repo CBTC
+          - [ ] Create PBTC
+          - [ ] Create Files
+          - [ ] Add at least one merchant on BTC map in region
+          - [ ] Create Instagram 
+          - [ ] Create Whatsapp group in UAIBIT
+          - [ ] Add channel on our discord
+          - [ ] Submit community on BTC map under UAIBIT organization 
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Community info
+      description: Describe the community relevant info to register on our auxiliary systems.
+    validations:
+      required: true
