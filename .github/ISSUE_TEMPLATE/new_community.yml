@@ -34,5 +34,6 @@ body:
        Lightning Tips (optional)
        Social Links:
        Public Contact:
+       Notes:
     validations:
       required: true
