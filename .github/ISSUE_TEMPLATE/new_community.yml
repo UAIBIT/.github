@@ -27,5 +27,12 @@ body:
     attributes:
       label: Community info
       description: Describe the community relevant info to register on our auxiliary systems.
+      value: |
+       Select Location:
+       Community Name:
+       Icon URL:
+       Lightning Tips (optional)
+       Social Links:
+       Public Contact:
     validations:
       required: true
