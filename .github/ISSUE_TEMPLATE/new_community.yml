@@ -23,15 +23,7 @@ body:
           - [ ] Create Whatsapp group in UAIBIT
           - [ ] Add channel on our discord
           - [ ] Submit community on BTC map under UAIBIT organization 
-          NOTREMOVETHISPLEASE
-          {\"OSM_ID\": ,
-           \"AREA_TYPE\":\"\",
-           \"CONTINENT\":\"\",
-           \"ICON\":\"\",
-           \"NAME\":\"\",
-           \"POPULATION\":,
-           \"POPULATION_DATE\":\"\",
-           \"CONTACT\":[\"\"]}
+          
     validations:
       required: true
   - type: textarea
@@ -48,3 +40,12 @@ body:
        Notes:  
     validations:
       required: true
+NOTREMOVETHISPLEASE
+          {\"OSM_ID\": ,
+           \"AREA_TYPE\":\"\",
+           \"CONTINENT\":\"\",
+           \"ICON\":\"\",
+           \"NAME\":\"\",
+           \"POPULATION\":,
+           \"POPULATION_DATE\":\"\",
+           \"CONTACT\":[\"\"]}
