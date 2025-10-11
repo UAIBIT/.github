@@ -24,14 +24,14 @@ body:
           - [ ] Add channel on our discord
           - [ ] Submit community on BTC map under UAIBIT organization 
           NOTREMOVETHISPLEASE
-          {\"OSM_ID\": 1686699,
-           \"AREA_TYPE\":\"Community\",
-           \"CONTINENT\":\"north-america\",
-           \"ICON\":\"image.png\",
-           \"NAME\":\"Bitcoin Tester\",
-           \"POPULATION\":10,
-           \"POPULATION_DATE\":\"2020-01-02\",
-           \"CONTACT\":[\"aa\",\"bb\"]}
+          {\"OSM_ID\": ,
+           \"AREA_TYPE\":\"\",
+           \"CONTINENT\":\"\",
+           \"ICON\":\"\",
+           \"NAME\":\"\",
+           \"POPULATION\":,
+           \"POPULATION_DATE\":\"\",
+           \"CONTACT\":[\"\"]}
     validations:
       required: true
   - type: textarea
