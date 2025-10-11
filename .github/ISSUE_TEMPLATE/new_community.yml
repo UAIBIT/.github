@@ -38,14 +38,14 @@ body:
        Social Links:  
        Public Contact:  
        Notes:  
+       NOTREMOVETHISPLEASE
+       {\"OSM_ID\": ,
+       \"AREA_TYPE\":\"\",
+       \"CONTINENT\":\"\",
+       \"ICON\":\"\",
+       \"NAME\":\"\",
+       \"POPULATION\":,
+       \"POPULATION_DATE\":\"\",
+       \"CONTACT\":[\"\"]}
     validations:
       required: true
-NOTREMOVETHISPLEASE
-          {\"OSM_ID\": ,
-           \"AREA_TYPE\":\"\",
-           \"CONTINENT\":\"\",
-           \"ICON\":\"\",
-           \"NAME\":\"\",
-           \"POPULATION\":,
-           \"POPULATION_DATE\":\"\",
-           \"CONTACT\":[\"\"]}
