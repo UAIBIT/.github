@@ -46,6 +46,7 @@ body:
        \"NAME\":\"\",
        \"POPULATION\":,
        \"POPULATION_DATE\":\"\",
-       \"CONTACT\":[\"\"]}
+       \"CONTACT\":[\"\"],
+       \"DESCRIPTION\":\"\"}
     validations:
       required: true
