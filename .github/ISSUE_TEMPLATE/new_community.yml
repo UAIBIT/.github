@@ -47,6 +47,7 @@ body:
        \"POPULATION\":,
        \"POPULATION_DATE\":\"\",
        \"CONTACT\":[\"\"],
-       \"DESCRIPTION\":\"\"}
+       \"DESCRIPTION\":\"\",
+       \"ORGANIZATION\":\"\"}
     validations:
       required: true
