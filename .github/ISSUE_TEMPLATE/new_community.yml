@@ -49,6 +49,7 @@ body:
        \"LIGHTNING_TIPS\":\"\",
        \"CONTACT\":[\"\"],
        \"DESCRIPTION\":\"\",
-       \"ORGANIZATION\":\"\"}
+       \"ORGANIZATION\":\"\",
+       \"COUNTRY_CODE\":\"\"}
     validations:
       required: true
