@@ -44,12 +44,9 @@ body:
        \"CONTINENT\":\"\",
        \"ICON\":\"\",
        \"NAME\":\"\",
-       \"POPULATION\":,
-       \"POPULATION_DATE\":\"\",
        \"LIGHTNING_TIPS\":\"\",
        \"CONTACT\":[\"\"],
        \"DESCRIPTION\":\"\",
-       \"ORGANIZATION\":\"\",
-       \"COUNTRY_CODE\":\"\"}
+       \"ORGANIZATION\":\"\"}
     validations:
       required: true
