@@ -31,13 +31,6 @@ body:
       label: Community info
       description: Describe the community relevant info to register on our auxiliary systems.
       value: |
-       Select Location:  
-       Community Name:  
-       Icon URL:  
-       Lightning Tips:  
-       Social Links:  
-       Public Contact:  
-       Notes:  
        NOTREMOVETHISPLEASE
        {\"OSM_ID\": ,
        \"AREA_TYPE\":\"\",
