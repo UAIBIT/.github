@@ -32,14 +32,10 @@ body:
       description: Describe the community relevant info to register on our auxiliary systems.
       value: |
        NOTREMOVETHISPLEASEV2
-       {\"OSM_ID\": ,
+       {\"OSM_ID\":,
        \"AREA_TYPE\":\"\",
        \"CONTINENT\":\"\",
-       \"ICON\":\"\",
-       \"NAME\":\"\",
-       \"LIGHTNING_TIPS\":\"\",
-       \"CONTACT\":[\"\"],
-       \"DESCRIPTION\":\"\",
-       \"ORGANIZATION\":\"\"}
+       \"ORGANIZATION\":\"\",
+       \"ISSUE_ID\":}
     validations:
       required: true
