@@ -31,7 +31,7 @@ body:
       label: Community info
       description: Describe the community relevant info to register on our auxiliary systems.
       value: |
-       NOTREMOVETHISPLEASE
+       NOTREMOVETHISPLEASEV2
        {\"OSM_ID\": ,
        \"AREA_TYPE\":\"\",
        \"CONTINENT\":\"\",
