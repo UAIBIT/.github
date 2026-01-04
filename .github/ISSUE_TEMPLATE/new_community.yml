@@ -1,4 +1,4 @@
-name: New Community 
+name: New Community
 description: Add community information 
 projects:
   - UAIBIT/1
@@ -32,10 +32,14 @@ body:
       description: Describe the community relevant info to register on our auxiliary systems.
       value: |
        NOTREMOVETHISPLEASEV2
-       {\"OSM_ID\":,
+       {\"OSM_ID\": ,
        \"AREA_TYPE\":\"\",
        \"CONTINENT\":\"\",
-       \"ORGANIZATION\":\"\",
-       \"ISSUE_ID\":}
+       \"ICON\":\"\",
+       \"NAME\":\"\",
+       \"LIGHTNING_TIPS\":\"\",
+       \"CONTACT\":[\"\"],
+       \"DESCRIPTION\":\"\",
+       \"ORGANIZATION\":\"\"}
     validations:
       required: true
